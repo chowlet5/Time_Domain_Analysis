@@ -1,0 +1,15 @@
+Analysis steps:
+1. Open TD_main file
+2. Under the "Read load files names " section Change the directory to where the floor loads are located
+3. Inside the loop change the directory to where the load files are located following the comment given
+4. Inside the loop change the directory to where the analysis files are located following the comment given
+5. Run the TD_main file
+6. Insert the following inputs:
+Press "i" for implicit or "e" for explicit scheme --->i
+Enter the number of floors of the building(n) --->50
+Enter the number of modes to be considered for analysis(k) --->3
+Enter the test duration in sec(T) --->36
+Enter the test sampling frequency in Hz(sf) -->512
+
+
+
